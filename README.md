@@ -3,5 +3,7 @@ This work adapts the bio-inspired RatSLAM algorithm (https://ieeexplore.ieee.org
 Please feel free to reach out to the following emails in case of questions or suggested edits.
 Contact:
 Prof. Jong-Hyeok Yoon: jonghyeok.yoon@dgist.ac.kr
+
 Prof. Arijit Raychowdhury: arijit.raychowdhury@ece.gatech.edu
+
 Ashwin Lele: alele9@gatech.edu
